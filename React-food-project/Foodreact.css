@@ -1,0 +1,93 @@
+.Header{
+    background-color: skyblue;
+    border: 1px solid;
+padding: 25px;
+border-radius: 30px;
+}
+.logo{
+    
+
+    width: 30%;
+    height: 30%;
+}
+.navlist,ul,li{
+    list-style-type: none;
+    display: inline;
+padding: 100px;
+}
+.Searchbar{
+    border: 1px solid;
+    width: 80%;
+    height: 25px;
+    border-radius:15px ;
+margin-right:10px;
+
+}
+
+.button{
+    border: 1px solid;
+    color: skyblue;
+    border-radius:15px ;
+    height: 25px;
+}
+
+
+
+
+.cardscontainer{
+    border: 1px solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 20px;
+
+}
+.data{
+border: 1px solid;
+padding: 25px;
+height: 110px;
+border-bottom-left-radius: 15px;
+border-bottom-right-radius: 15px;
+
+}
+.img1{
+border: 1px solid;
+padding: 100px;
+border-top-right-radius: 15px;
+border-top-left-radius: 15px;
+
+}
+.img2{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border: 1px solid;
+    padding: 100px;
+    
+    }
+    .img3{
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border: 1px solid;
+        padding: 100px;
+        
+        }
+
+        .img4{
+            border-top-right-radius: 15px;
+             border-top-left-radius: 15px;
+            border: 1px solid;
+            padding: 100px;
+            
+            }
+            .img5{
+                border-top-right-radius: 15px;
+             border-top-left-radius: 15px;
+            border: 1px solid;
+            padding: 100px;
+            }
+
+            .Footer{
+                border: 1px solid;
+                padding: 150px;
+                border-radius: 30px;
+            }
